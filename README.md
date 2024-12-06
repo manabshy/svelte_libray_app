@@ -9,7 +9,11 @@ https://github.com/user-attachments/assets/f603ae11-0737-48d3-9ad3-1578edfb2637
 `npm install`
 `npm run dev`
 
+https://svelte.dev/
 
+Svelte is a UI framework that uses a compiler to let you write breathtakingly concise components that do minimal work in the browser, using languages you already know — HTML, CSS and JavaScript. It’s a love letter to web development.
+
+But don’t take our word for it. Developers consistently rank Svelte as the framework they’re most excited about using.
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 

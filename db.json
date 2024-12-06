@@ -59,6 +59,24 @@
       "about": "xx",
       "variation": 0,
       "favorite": false
+    },
+    {
+      "id": "4a42",
+      "title": "My Book",
+      "author": "Charles Dickens",
+      "cover": "Good Times",
+      "about": "A Book by Charles Dickens",
+      "variation": 2,
+      "favorite": true
+    },
+    {
+      "id": "a50f",
+      "title": "Test Book",
+      "author": "Test Author",
+      "cover": "Test Author cover",
+      "about": "I am test book.",
+      "variation": 1,
+      "favorite": true
     }
   ]
 }
